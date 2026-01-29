@@ -6,6 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
+<table>
+  <tr>
+    <td width="70%">
+
+
 - 🎯 I'm a **Business Analytics student** passionate about transforming data into meaningful insights.
 - 📊 Interested in **Data Analytics, Business Intelligence, and Applied Python** for meaningful analysis.
 - 💾 Love creating dashboards in visual stories using **Power BI and Excel**.
@@ -13,6 +18,15 @@
 - ⚡ Currently improving **Python, Pandas, and SQL**.
 - 💬 Ask me about **Data Analytics, SQL, Python, BI, reports**.
 - 📫 Contact: **tuoc.nguyen0511@gmail.com**
+
+</td>
+    <td align="center" width="30%">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlwY3pqd…pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utK0zq5Meln1ZGZVki/giphy.gif" width="250" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
