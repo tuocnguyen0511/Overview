@@ -176,14 +176,6 @@ graph LR
 
 ---
 
-## ☕ Fun Facts Corner
-
-<div align="center">
-
-| 🎵 Music | ☕ Fuel | 🌙 Night Owl |
-|:---:|:---:|:---:|
-| House music while coding | Coffee = Productivity++ | Best ideas come at 2 AM |
-
 </div>
 
 ```javascript
